@@ -33,5 +33,10 @@
     "name": "Escape from Tarkov",
     "img": "https://i.ytimg.com/vi/Lioz680IBWg/maxresdefault.jpg",
     "slots": 4
+  },
+  {
+    "name": "Deep Rock Galactic",
+    "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg?t=1614623240",
+    "slots": 4
   }
 ]
